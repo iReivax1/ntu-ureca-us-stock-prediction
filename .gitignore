@@ -1,0 +1,8 @@
+/.idea
+/parameters
+/results
+/abandon
+**/.env
+tmp*
+config.py
+__pycache__/
